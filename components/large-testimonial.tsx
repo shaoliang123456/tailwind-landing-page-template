@@ -26,20 +26,17 @@ export default function LargeTestimonial() {
                 src={TestimonialImg}
                 width={48}
                 height={48}
-                alt="Large testimonial"
+                alt="Lorem Ipsum"
               />
             </div>
             <p className="text-2xl font-bold text-gray-900">
-              “Simple has simplified my life in more ways than one. From
-              managing my sites to{" "}
-              <em className="italic text-gray-500">keeping track of tasks</em>,
-              it's become my go-to tool for everything.”
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. <em className="italic text-gray-500">Sed do eiusmod tempor</em> incididunt ut labore et dolore magna aliqua.
             </p>
             <div className="text-sm font-medium text-gray-500">
-              <span className="text-gray-700">Mary Sullivan</span>{" "}
+              <span className="text-gray-700">Lorem Ipsum</span>{" "}
               <span className="text-gray-400">/</span>{" "}
               <a className="text-blue-500" href="#0">
-                CTO at Microsoft
+                Dolor Sit Amet
               </a>
             </div>
           </div>
